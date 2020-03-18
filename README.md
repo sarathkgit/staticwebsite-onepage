@@ -1,5 +1,6 @@
 # staticwebsite-new
-this is a static website application launching from jenkins  
+this is a static website application launching from jenkins 
+Creating a dummy commit PR for checking POLL SCM for ever 3mins to build after merging all PRs
 
 This is my pull request testing
 
